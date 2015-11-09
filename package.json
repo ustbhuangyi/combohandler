@@ -1,7 +1,7 @@
 {
-  "name": "combohandler",
-  "description": "Simple Yahoo!-style combo handler.",
-  "version": "0.4.0",
+  "name": "node-combohandler",
+  "description": "Simple Yahoo!-style combo handler.fork from https://github.com/rgrove/combohandler",
+  "version": "0.0.1",
   "keywords": [
     "combo",
     "combohandler",
@@ -9,17 +9,12 @@
     "combine",
     "cdn",
     "css",
-    "yui"
+    "node"
   ],
-  "homepage": "https://github.com/rgrove/combohandler",
+  "homepage": "https://github.com/ustbhuangyi/combohandler",
   "repository": {
     "type": "git",
-    "url": "git://github.com/rgrove/combohandler.git"
-  },
-  "author": {
-    "name": "Ryan Grove",
-    "email": "ryan@wonko.com",
-    "url": "http://wonko.com/"
+    "url": "https://github.com/ustbhuangyi/combohandler.git"
   },
   "engines": [
     "node >=0.10"
